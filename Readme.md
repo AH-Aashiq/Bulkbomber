@@ -1,6 +1,6 @@
 Hello everyone, Welcome to Bulkbomber.
 
-BulkBomber is a text bombing tool thats works on both windows PC and linux operation system, with bulkbomber you can do bombing every where in the web.
+BulkBomber is a text bombing tool thats works on both windows PC and linux operation system, with bulkbomber you can do bombing everywhere in the web.
 
 Features of BulkBomber-->
 
